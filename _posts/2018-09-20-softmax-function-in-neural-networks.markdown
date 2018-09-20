@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Softmax Function In Neural Networks"
-date:   2018-09-19 22:00:00
+date:   2018-09-20 22:00:00
 tags: Machine Learning, Deep Learning, Neural Network, Softmax, Python, Numpy
 ---
 
