@@ -1,0 +1,18 @@
+# Setup
+title:        Sajid's Notebook
+tagline:      Here to keep day to day learning topics, both academic, professional and personal.
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Mohammad Sajid Hasan
+  url:        http://hackerrank.com/sajidhasan 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
