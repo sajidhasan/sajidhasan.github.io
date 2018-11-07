@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Softmax Function In Neural Networks"
-date:   2018-09-20 22:00:00
+date:   2018-09-20 00:10:00
 tags: Machine Learning, Deep Learning, Neural Network, Softmax, Python, Numpy
+permalink: /ml/:title
 ---
 
 In Neural Networks an interesting function named `Softmax` function is used to calculate probabilities of Logits Scores that sum to 1. After applying the `Softmax Function`, the logits scores become probabilities which helps to classify among the scores.
