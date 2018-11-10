@@ -16,5 +16,13 @@ An algorithm must show the following characteristics:
 
 There are three very basic goals of an algorithm. First, the algorithm must produce correct results, it must terminate within a reasonable time and the algorithm performance.
 
+{% raw %}
+Pythagorean theorem: 
+$$a^2 + b^2 = c^2$$
+
+Hypothesis of logistic regression:
+$h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$
+{% endraw %}
+
 ## Design & Analysis of Algorithms
 We will perform analysis on algorithms to find/predict the cost of it in terms of resources and performance. Then we will design an algorithm which reduces cost.
