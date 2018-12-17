@@ -11,13 +11,11 @@ An algorithm is fundamentally a finite set of exact instruction to find a soluti
 
 An algorithm must show the following characteristics:
 + It must serve correct result
-+ It must be finished executing within reasonable amount of time
++ It must finish executing within finite amount of time
 + It is feasible to represent the algorithm with using pseudocode, flow chart, code etc.
 
-There are three very basic goals of an algorithm. First, the algorithm must produce correct results, it must terminate within a reasonable time and the algorithm performance.
-
 {% raw %}
-Pythagorean theorem: 
+Pythagorean theorem:
 $$a^2 + b^2 = c^2$$
 
 Hypothesis of logistic regression:
