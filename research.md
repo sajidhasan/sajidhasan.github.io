@@ -11,7 +11,9 @@ title: {{ site.name }}
 
 ---
 
-NER is used for information extraction. NER in Bangla is first of its kind. A journal on this research project is accepted by **Collective Intelligent Information and Database Systems (CIIDS)** to be published in the **Journal of Intelligent and Fuzzy Systems by IOS Press, Amsterdam.**
+Karim, R., Islam, M., Simanto, S., Chowdhury, S., Roy, K., Al Neon, A., Hasan, M., Firoze, A. and Rahman, R. (2019). A step towards information extraction: Named entity recognition in Bangla using deep learning. <em>Journal of Intelligent & Fuzzy Systems,</em> pp.1-13.
+
+**IOS Press website link**: [A step towards information extraction: Named entity recognition in Bangla using deep learning](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179349)
 
 ## Lung Disease Detection From Chest X-ray Images Using Deep Learning
 
