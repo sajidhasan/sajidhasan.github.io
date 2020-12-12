@@ -1,7 +1,7 @@
 # Setup
 title:        Sajid's Notebook
 tagline:      Here to keep day to day learning topics, both academic, professional and personal.
-baseurl:      ""
+baseurl:      "https://sajidhasan.uk"
 paginate:     1
 locale:       "en"
 
