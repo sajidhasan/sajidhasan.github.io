@@ -11,5 +11,6 @@ title: {{ site.name }}
 {% for post in site.posts %} 
 {% if post.categories contains "iOS" %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {{ post.excerpt }}
 {% endif %}
 {% endfor %}

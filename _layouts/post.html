@@ -6,7 +6,7 @@
   <body>
     {% include page-header.html %}
     <section class="main-content">
-      <h1 style="text-align:center; text-decoration: underline;">{{ page.title }}</h1>
+      <h1 style="text-align:center;">{{ page.title }}</h1>
       <p style="text-align:center; font-style: italic;" class="meta">{{ page.date | date_to_string }}</p>
 
       {{ content }}
