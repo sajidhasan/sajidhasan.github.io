@@ -6,20 +6,32 @@ category: Problem Solving
 permalink: /problem/:title
 ---
 
-Given an integer, write a function to find all the factors of the number.
+Given an integer, write a function to find if it is palindrome or not.
 
-* Input: 36
-* Output: 1 2 3 4 6 9 12 18 36
+* Input: 121
+* Output: true
 
-Finding the factors of an integer can be done in some other ways too, but, this solution
-has less time complexity than others.
-
-This below algorithm runs in O(sqrt(n)).
 
 {% highlight cpp %}
 
 #include <bits/stdc++.h>
 using namespace std;
+
+bool isPalindrome(int x) {
+    bool isPal = false;
+    int digit;
+    long rev = 0;
+    int num = x;
+    if (x < 0) return isPal;
+    do
+    {
+         digit = num % 10;
+         rev = (rev * 10) + digit;
+         num = num / 10;
+    } while (num != 0);
+    
+   return rev == x ? true : false;
+}
 
 vector<int> factors(int a){
 	vector<int> result;
