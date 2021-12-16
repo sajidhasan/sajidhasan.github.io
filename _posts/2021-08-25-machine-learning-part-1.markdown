@@ -38,6 +38,20 @@ T = the task of playing checkers.
 
 P = the probability that the program will win the next game.
 
+
+### Supervised learning
+
+#### Regression
+
+#### Classification
+
+### Unsupervised Learning
+
+### Semi-supervised Learning
+
+
+
+
 [incomplete]
 
 
