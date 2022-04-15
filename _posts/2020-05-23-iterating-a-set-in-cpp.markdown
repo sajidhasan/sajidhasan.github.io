@@ -32,5 +32,5 @@ int main() {
 
 {% endhighlight %}
 
-[problem](http://codeforces.com/contest/1355/problem/A)
-[solution](https://gist.github.com/sajidhasan/d705d7341e7cd587bd10999a6420f7d0)
+[Relevant problem link from Codeforces](http://codeforces.com/contest/1355/problem/A)  
+[Solution](https://gist.github.com/sajidhasan/d705d7341e7cd587bd10999a6420f7d0)
