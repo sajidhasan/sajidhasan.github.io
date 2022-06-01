@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Groping Anagrams"
+title:  "Grouping Anagrams"
 date:   2022-04-29 00:00:10
 category: Problem Solving
 permalink: /problem/:title
