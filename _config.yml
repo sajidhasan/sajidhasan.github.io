@@ -1,8 +1,8 @@
 # Setup
-title:        Sajid's Notebook
-tagline:      Here to keep day to day learning topics, both academic, professional and personal.
+title:        "Sajid's Notebook"
+tagline:      
 baseurl:      ""
-paginate:     1
+paginate:     2
 locale:       "en"
 
 # About/contact
