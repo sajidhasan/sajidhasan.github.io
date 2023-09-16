@@ -45,6 +45,8 @@ Add an additional abstraction by providing various "Java interfaces" such as
 - PagingAndSortingRepository (used to implement pagination)
 - JpaRepository
 
+All the above interfaces are referred as `Repositories`. Implementation classes are provided so there is no need to wrtie the implementation.  
+
 
 
 

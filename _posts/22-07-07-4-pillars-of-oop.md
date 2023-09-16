@@ -3,7 +3,7 @@ layout: post
 title:  "4 Pillars of Object Oriented Programming"
 date:   2022-07-07
 category: OOP
-permalink: /oop/:title
+permalink: /java/:title
 ---
 
 ## Encapsulation
@@ -44,6 +44,14 @@ Interfaces in Java represents pure abstract class. Interfaces allow us to wrtie 
 (Prior to Java 8) Java interfaces can have only abstract methods. 
 
 A specification of method signatures.
+
+Q: Can Java interfaces have variables?
+A: Yes, but the variables have to be pulblic, static and final (constant)
+
+Q: Can interface extend another interface?
+A: Yes, An interface can extend other interfaces, just as a class subclass or extend another class. However, whereas a class can extend only one other class, an interface can extend any number of interfaces. The interface declaration includes a comma-separated list of all the interfaces that it extends.
+
+
 
 Method signature indicates a method indication which reveals access specifier, return type, name of the method and parameter list (if any).
 
