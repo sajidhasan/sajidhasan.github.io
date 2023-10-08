@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Connfigure VIM to Show Line Number"
+title:  "Configure VIM to Show Line Number"
 date:   2023-09-16
 category: VIM
 permalink: /vim/:title

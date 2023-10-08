@@ -1,0 +1,14 @@
+---
+layout: default
+title: {{ site.name }}
+---
+
+<div id="home">
+  <h1 style="text-align:center;">Bash Scripting</h1>
+</div>
+<ul>
+{% for post in site.posts %} 
+{% if post.categories contains "bash" %}
+	<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endif %}
+{% endfor %}
